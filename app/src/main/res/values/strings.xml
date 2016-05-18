@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Menu de contexto</string>
+
+    <!-- Textos de los menus -->
+    <string name="menu_edit">Edit</string>
+    <string name="menu_delete">Delete</string>
+    
+    <!-- Texto al TextView -->
+    <string name="texto_menu">Menú contexto</string>
+
+
+</resources>
